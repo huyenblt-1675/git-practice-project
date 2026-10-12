@@ -1,4 +1,4 @@
 Danh sach test case - Sprint 1 - Login module
 Contact: QA Team
 Email: qa.team@example.com
-Phone: 0123-456-789
+Phone: +84 123-456-789
